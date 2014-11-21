@@ -1,0 +1,14 @@
+{
+  "name": "aws-dynamodb",
+  "main": "aws-dynamodb.js",
+  "homepage": "https://github.com/FrontendWTF/aws-dynamodb",
+  "authors": [
+    "L42y <423300@gmail.com>"
+  ],
+  "keywords": [
+    "angular",
+    "aws",
+    "dynamodb"
+  ],
+  "license": "WTFPL"
+}
