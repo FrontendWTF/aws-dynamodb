@@ -10,5 +10,8 @@
     "aws",
     "dynamodb"
   ],
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "dependencies": {
+    "dynamodb-doc": "awslabs/dynamodb-document-js-sdk#831042cdb84a0dcb67b074a7b07145cf235edb98"
+  }
 }
